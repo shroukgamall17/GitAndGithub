@@ -1,6 +1,6 @@
-const Students=
-{
+const Students={
 name:"Shrouk",
-email:"shroukgamal17@gmail.com",
+email:"shrouk17@gmail.com",
+track:"fullstack using MERN ",
 phoneNumber:"01002705035"
 }
