@@ -1,3 +1,4 @@
 const Students={
-name:"Ezz"
+name:"Ezz",
+email:"shrouk17@gmail.com"
 }
